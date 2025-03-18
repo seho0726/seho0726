@@ -7,3 +7,5 @@
 seho0726/seho0726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+어떻게 공부를 해나가면서 자신을 어떻게 바꿔나가야할지 끊임없이 고민하는중..
